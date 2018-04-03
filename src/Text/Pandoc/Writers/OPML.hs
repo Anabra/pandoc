@@ -1,5 +1,4 @@
 {-# LANGUAGE NoImplicitPrelude #-}
-{-# LANGUAGE CPP #-}
 {-
 Copyright (C) 2013-2018 John MacFarlane <jgm@berkeley.edu>
 

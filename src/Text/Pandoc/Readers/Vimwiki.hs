@@ -1,5 +1,4 @@
 {-# LANGUAGE NoImplicitPrelude #-}
-{-# LANGUAGE CPP #-}
 {-
   Copyright (C) 2017-2018 Yuchen Pei <me@ypei.me>
 
